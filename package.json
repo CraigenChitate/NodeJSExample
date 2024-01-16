@@ -1,0 +1,11 @@
+{
+  "name": "nodejsexample",
+  "version": "1.0.0",
+  "description": "craigen nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "chitate"
+  },
+  "author": "craigen",
+  "license": "ISC"
+}
