@@ -4,7 +4,8 @@
   "description": "craigen nodejs",
   "main": "index.js",
   "scripts": {
-    "test": "chitate"
+    "test": "chitate",
+    "hello": "node helloworld.js"
   },
   "author": "craigen",
   "license": "ISC"
